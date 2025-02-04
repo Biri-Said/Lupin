@@ -110,4 +110,4 @@ async def pokemon(ctx, pokemon_name="charmander"):
     else:
         await ctx.send(f"{pokemon_name} adında bir Pokemon bulunamadı.")
 
-bot.run("MTMwNTU0MTUwNDIwNjYzOTE0Ng.GnvG-n.PVfWjSijYclHg6haZqDtfbX8h82847MYWPeo3s")
+bot.run("BOT_TOKEN")
